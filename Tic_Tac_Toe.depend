@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479821227 source:c:\users\swarit\desktop\tic_tac_toe\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1480398732 source:b:\projects\tic_tac_toe\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
